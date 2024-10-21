@@ -1,2 +1,2 @@
 ﻿  It's Raining Strings Lab_.cpp
-  It's Raining Strings Lab_.vcxproj -> C:\Users\nessa\OneDrive\Documents\GitHub\it-s-raining-strings-Vhuerta24\It's Raining Strings Lab_\x64\Debug\It's Raining Strings Lab_.exe
+C:\Users\nessa\OneDrive\Documents\GitHub\it-s-raining-strings-Vhuerta24\It's Raining Strings Lab_\It's Raining Strings Lab_\It's Raining Strings Lab_.cpp(35,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
